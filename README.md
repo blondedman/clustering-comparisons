@@ -9,8 +9,8 @@ data set used : [https://archive.ics.uci.edu/dataset/468/online+shoppers+purchas
 
 ### Models Used:
 - Spectral Clustering
-- Gaussian Mixed Model (GMM)
-- Fuzzy C-Means Clustering
+- Agglomerative Clustering
+- Gaussian Mixture Clustering
 
 ### Evaluation Parameters Used:
 - Silhouette Score
@@ -24,3 +24,5 @@ data set used : [https://archive.ics.uci.edu/dataset/468/online+shoppers+purchas
 - Log Transformation + Normalization
 - Feature Selection (Variance Threshold) + Discretization
 - Robust Scaling + Feature Engineering (using Polynomial Features)
+
+## Results and Findings:
