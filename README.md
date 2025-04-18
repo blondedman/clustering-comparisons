@@ -25,4 +25,8 @@ data set used : [https://archive.ics.uci.edu/dataset/468/online+shoppers+purchas
 - Feature Selection (Variance Threshold) + Discretization
 - Robust Scaling + Feature Engineering (using Polynomial Features)
 
-## Results and Findings:
+## Final Results:
+![results](https://github.com/blondedman/clustering-models-comparisons/blob/main/results.png?raw=true)
+
+## Key Findings
+![findings](https://github.com/blondedman/clustering-models-comparisons/blob/main/findings.png?raw=true)
