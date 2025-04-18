@@ -28,5 +28,7 @@ data set used : [https://archive.ics.uci.edu/dataset/468/online+shoppers+purchas
 ## Final Results:
 ![results](https://github.com/blondedman/clustering-models-comparisons/blob/main/results.png?raw=true)
 
-## Key Findings
+## Key Findings:
+(best silhoutte scores and number of clusters for each data processing tool)
+
 ![findings](https://github.com/blondedman/clustering-models-comparisons/blob/main/findings.png?raw=true)
